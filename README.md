@@ -3,7 +3,7 @@ Program to generate a collection of strings for a Collection Initialization (Vec
 
 ## How to use
 - Clone the repo.
-- Open and compile Project in ur C++ IDE of Choice.
+- Open and compile Project in your C++ IDE of Choice.
 - Run the Program and insert an input file with space or line break separated strings.
 - Check that if you are on **Windows** you have activated the **Quick Edit Mode** in your cmd. To do so right click you're cmd choose **Properties > Options > Edit Options**.
 - Insert the EOF Signal to the console **Windows:** <kbd>Ctrl</kbd> + <kbd>Z</kbd> or **Mac:** <kbd>Cmd</kbd> + <kbd>D</kbd>
